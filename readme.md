@@ -2,6 +2,8 @@
 
 Este é o projeto prático do Capítulo 20 do ebook "Dominando RAG e LangChain: Do Básico ao Avançado". 
 
+O ebook está disponível no site (berlotto.me)[https://berlotto.me]
+
 ## Sobre o Projeto
 
 Um sistema RAG (Retrieval-Augmented Generation) que:
